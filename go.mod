@@ -12,7 +12,7 @@ require (
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/jimstudt/http-authentication v0.0.0-20140401203705-3eca13d6893a
 	github.com/klauspost/cpuid v1.2.0
-	github.com/lucas-clemente/quic-go master
+	github.com/lucas-clemente/quic-go v0.13.1
 	github.com/mholt/certmagic v0.8.3
 	github.com/naoina/toml v0.1.1
 	github.com/russross/blackfriday v0.0.0-20170610170232-067529f716f4
