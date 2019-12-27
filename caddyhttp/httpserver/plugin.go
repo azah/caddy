@@ -641,6 +641,7 @@ var directives = []string{
 	"realip", // github.com/captncraig/caddy-realip
 	"git",    // github.com/abiosoft/caddy-git
 
+	"logingov", // github.com/azah/caddy_logingov
 	// directives that add listener middleware to the stack
 	"proxyprotocol", // github.com/mastercactapus/caddy-proxyprotocol
 
