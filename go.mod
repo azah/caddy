@@ -1,4 +1,4 @@
-module github.com/caddyserver/caddy
+module github.com/azah/caddy
 
 go 1.13
 
