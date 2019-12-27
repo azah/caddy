@@ -3,6 +3,7 @@ module github.com/azah/caddy
 go 1.13
 
 require (
+	github.com/caddyserver/caddy v1.0.4
 	github.com/dustin/go-humanize v1.0.0
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568
 	github.com/go-acme/lego/v3 v3.2.0
@@ -11,7 +12,7 @@ require (
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/jimstudt/http-authentication v0.0.0-20140401203705-3eca13d6893a
 	github.com/klauspost/cpuid v1.2.0
-	github.com/lucas-clemente/quic-go v0.13.1
+	github.com/lucas-clemente/quic-go master
 	github.com/mholt/certmagic v0.8.3
 	github.com/naoina/toml v0.1.1
 	github.com/russross/blackfriday v0.0.0-20170610170232-067529f716f4
